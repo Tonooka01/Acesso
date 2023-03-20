@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@zenvia/zenvia-sms-core": "^0.1.0"
+  }
+}
